@@ -1,0 +1,5 @@
+.*\.bin$
+.*\.idx$
+.*\cmulex.*.txt
+.*\cmu.*.txt
+tests
